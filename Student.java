@@ -36,11 +36,13 @@ public class Student {
 		this.finals = finals;
 	}
 	
+//get the ID number of student
 	public String getIDnum () {
-		return idNum;
+		return idNum; 
 	}
 	
 	public String toString() {
+		//prints student info 
 		return(lastName + ", " + firstName + " " + initial + 
 				"\nID No. " + idNum + "   " + course + " " + year + 
 				"\n\nBalance:                                      PHP" + balance +
