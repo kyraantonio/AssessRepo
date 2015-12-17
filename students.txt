@@ -16,7 +16,7 @@ Add yourselveshh
 Add yourselves
 >>>>>>> a93628ed584c53f5582ca073efc7c4fee10c793a
 =======
-2140782,NGAOSI,CATHRYN,BSIT,3
+2140782,NGAOSI,CATHRYN,BSIT,3,2000.00
 
 //Add yourselves here
 >>>>>>> vine
