@@ -42,7 +42,7 @@ public class Assessment { //Main Class
 		
 		boolean found = true;
 		while (found) {	
-			String idNumber = JOptionPane.showInputDialog(null, "Enter ID number", "Assessment", JOptionPane.OK_CANCEL_OPTION);
+			String idNumber = JOptionPane.showInputDialog(null, "Enter ID number", "Assessment", JOptionPane.OK_CANCEL_OPTION); //a GUI prompt that makes a dialog box
 			
 			if (idNumber.isEmpty()) {
 				JOptionPane.showMessageDialog(null, "ID Number not found.", "Error", JOptionPane.ERROR_MESSAGE);
