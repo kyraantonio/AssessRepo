@@ -20,6 +20,3 @@ Add yourselves
 
 //Add yourselves here
 >>>>>>> vine
-=======
-2142559,ANTONIO,KYRA,R,BSIT,3,12345.00,6321.00,5478.00,5400.00
->>>>>>> Changed final tuition fee!!
