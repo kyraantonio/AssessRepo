@@ -1,0 +1,8 @@
+diff a/students.txt b/students.txt	(rejected hunks)
+@@ -20,3 +20,6 @@
+ 
+ //Add yourselves here
+ >>>>>>> vine
++=======
++2142559,ANTONIO,KYRA,R,BSIT,3,12345.00,6321.00,5478.00,5400.00
++>>>>>>> Changed final tuition fee!!
